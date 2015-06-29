@@ -332,7 +332,7 @@
 	<?php
 		if(is_active_sidebar( 'sidebar-aboutus' )):
 			echo '<div class="our-clients">';
-				echo '<h5><span class="section-footer-title">'.__('OUR HAPPY CLIENTS','zerif-lite').'</span></h5>';
+				echo '<h5><span class="section-footer-title">'.__('Tarifs de location','zerif-lite').'</span></h5>';
 			echo '</div>';
 
 			echo '<div class="client-list">';
