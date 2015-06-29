@@ -1787,10 +1787,10 @@ ul.nav > li.current_page_item.current > a:before {
 	border: 10px solid #f7d861;
 }
 .focus-box:nth-child(4n+1) .red-border-bottom:before {
-	background: #e96656;
+	background: #3ab0e2;
 }
 .focus-box:nth-child(4n+2) .red-border-bottom:before {
-	background: #34d293;
+	background: #3ab0e2;
 }
 .focus-box:nth-child(4n+3) .red-border-bottom:before {
 	background: #3ab0e2;
