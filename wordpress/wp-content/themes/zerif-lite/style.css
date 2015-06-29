@@ -2313,16 +2313,16 @@ width: -webkit-calc(100% / 4);
 	color: #e96656;
 }
 .our-team .row > div:nth-child(4n+1) .red-border-bottom:before{
-    background: #e96656;
+    background: #3ab0e2;
 }
 .our-team .row > div:nth-child(4n+2) .red-border-bottom:before{
-    background: #34d293;
+    background: #3ab0e2;
 }
 .our-team .row > div:nth-child(4n+3) .red-border-bottom:before{
     background: #3ab0e2;
 }
 .our-team .row > div:nth-child(4n+4) .red-border-bottom:before{
-    background: #f7d861;
+    background: #3ab0e2;
 }
 
 /*---------------------------------------
